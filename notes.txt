@@ -11,3 +11,6 @@ npm install svix
 
 notes:
 sync clerk data to our backend with help of web hooks
+in video: 1:36:00 
+
+
