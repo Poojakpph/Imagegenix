@@ -7,10 +7,37 @@ npx shadcn@latest add sheet
 npm install mongodb mongoose
 npm install @types/qs --save-dev
 npm install svix
+npx shadcn@latest add form
+npx shadcn@latest add input
+npx shadcn@latest add select
+npm i next-cloudinary
+npx shadcn@latest add toast
+npx shadcn@latest add alert-dialog
+npx shadcn@latest add pagination
+npm install cloudinary
+npm install stripe @stripe/stripe-js
+
+
+tech used:
+cloudinary
+reactjs
+nextjs
+stripe
+shadcn
+mongodb
+webhooks
+clerk
+
+
+color theme: 
+ #49243E -dark purple
+ #804d77 - light purple
+ #2f3e5f - dark grey
+ #4d5269- light grey
 
 
 notes:
 sync clerk data to our backend with help of web hooks
-in video: 1:36:00 
+
 
 
