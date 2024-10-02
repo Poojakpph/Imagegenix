@@ -11,7 +11,9 @@ TailwindCSS
 Demo: 
 
 
-https://github.com/user-attachments/assets/87d452e4-c6ec-4c1d-8ad5-3a814a70f7cb
+
+
+https://github.com/user-attachments/assets/1765b614-9b83-4036-a135-f84a7cc82299
 
 
 
